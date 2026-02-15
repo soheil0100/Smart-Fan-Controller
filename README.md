@@ -4,7 +4,7 @@ An intelligent temperature-based fan speed control system built using Arduino.
 The system automatically adjusts fan speed based on environmental temperature.
 
 ---
-
+ 
 ## Overview
 
 The Smart Fan Controller is designed to optimize cooling efficiency by adjusting fan speed dynamically according to temperature readings.
